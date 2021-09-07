@@ -1,2 +1,0 @@
-# PacManRun
-Visualization of Code
